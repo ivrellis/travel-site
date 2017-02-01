@@ -1,0 +1,10 @@
+git status #show changed files
+git add -A   #add all changed files on stage
+git commit -m "comment" #commit localy
+git push origin master #push on github repo
+
+
+npm init #create package.json
+npm install <package> --save #install package and update package.json
+npm install #install all dependencies
+
